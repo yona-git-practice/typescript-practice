@@ -59,8 +59,8 @@ https://www.youtube.com/watch?v=4Z1zTscs22c
 □TypeScript入門 #07：クラスを定義して、郵便番号検索（もどき）を作ろう②
 https://www.youtube.com/watch?v=S60pv7JXk7Y
 
-
-
+□TypeScript入門 #08：Promise処理で、非同期通信（Ajax）をしよう①
+https://www.youtube.com/watch?v=Yrx5WG4wVfA
 
 
 
