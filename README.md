@@ -44,6 +44,14 @@ tsc --init
 □TypeScript入門 #03：letとconst、varに変わるES6の変数宣言
 https://www.youtube.com/watch?v=xZ4aImxNHzo
 
+□TypeScript入門 #04：変数の型ってなに？ TypeScriptの便利機能
+https://www.youtube.com/watch?v=Quo1PT9Ce0E
+
+Type(型) Script
+JavaScript
+
+
+
 
 
 
