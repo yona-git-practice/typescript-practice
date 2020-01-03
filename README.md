@@ -41,6 +41,9 @@ Powershell
 実行ポリシーをデフォルト設定に戻すには、「Set-ExecutionPolicy Restricted」を実行すればよい。
 tsc --init
 
+□TypeScript入門 #03：letとconst、varに変わるES6の変数宣言
+https://www.youtube.com/watch?v=xZ4aImxNHzo
+
 
 
 
