@@ -12,8 +12,8 @@
 //         this.zip = _zip;
 //     }
 // }
-var Address = /** @class */ (function () {
-    function Address(_zip) {
+class Address {
+    constructor(_zip) {
         this._zip = _zip;
         this.addresses =
             {
@@ -27,23 +27,18 @@ var Address = /** @class */ (function () {
                 },
             };
     }
-    Object.defineProperty(Address.prototype, "zip", {
-        get: function () {
-            return this._zip.substr(0, 3);
-        },
-        set: function (value) {
-            this._zip = value;
-        },
-        enumerable: true,
-        configurable: true
-    });
-    Address.prototype.getAddress = function () {
-        var here = this.addresses[this._zip];
-        return here.prefecture + " " + here.city;
-    };
-    return Address;
-}());
-var myaddress = new Address('038-0000');
+    get zip() {
+        return this._zip.substr(0, 3);
+    }
+    set zip(value) {
+        this._zip = value;
+    }
+    getAddress() {
+        let here = this.addresses[this._zip];
+        return `${here.prefecture} ${here.city}`;
+    }
+}
+let myaddress = new Address('038-0000');
 myaddress.zip = '079-1100';
 console.log(myaddress.zip);
 console.log(myaddress.addresses);

@@ -62,7 +62,8 @@ https://www.youtube.com/watch?v=S60pv7JXk7Y
 □TypeScript入門 #08：Promise処理で、非同期通信（Ajax）をしよう①
 https://www.youtube.com/watch?v=Yrx5WG4wVfA
 
-
+□TypeScript入門 #09：Promise処理で、非同期通信（Ajax）をしよう②
+https://www.youtube.com/watch?v=UvV_0pEC6wk
 
 
 

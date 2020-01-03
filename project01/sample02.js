@@ -7,7 +7,7 @@
 //     const tax: number = 10;
 //     return Math.round(price * (1 + tax / 100));
 // }
-var addTax = function (price, tax) {
+let addTax = (price, tax) => {
     if (tax === undefined) {
         tax = 10;
     }
