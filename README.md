@@ -56,6 +56,9 @@ https://www.youtube.com/watch?v=iC8EPwUXbPM
 □TypeScript入門 #06：クラスを定義して、郵便番号検索（もどき）を作ろう①
 https://www.youtube.com/watch?v=4Z1zTscs22c
 
+□TypeScript入門 #07：クラスを定義して、郵便番号検索（もどき）を作ろう②
+https://www.youtube.com/watch?v=S60pv7JXk7Y
+
 
 
 
