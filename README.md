@@ -50,6 +50,9 @@ https://www.youtube.com/watch?v=Quo1PT9Ce0E
 Type(型) Script
 JavaScript
 
+□TypeScript入門 #05：アロー関数 - 今どきの関数宣言と型指定
+https://www.youtube.com/watch?v=iC8EPwUXbPM
+
 
 
 
